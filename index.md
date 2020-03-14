@@ -11,10 +11,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!-- custom-theme -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Candid Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
-Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+<meta name="keywords" content="Candid Responsive web template, Smartphone Compatible web template, free webdesign" />
+<!-- //control scrolling bar to hide on downscroll -->
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
-		function hideURLbar(){ window.scrollTo(0,1); } </script>
+    function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- //custom-theme -->
 <script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
 <!-- stylesheet -->
@@ -34,7 +34,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <div class="agileits_main">
 <!-- header -->
 <div class="w3_agile_logo">
-	<h1 class="text-center"><a href="index.html">candid</a></h1>
+	<h1 class="text-center"><a href="howcilly.github.io/">candid</a></h1>
 </div>
 <!-- banner -->
 <div class="w3_banner">
@@ -100,7 +100,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		</button>
 	<div class="collapse navbar-collapse top-nav w3l" id="bs-example-navbar-collapse-1">
 		<ul class="nav navbar-nav linkEffects linkHoverEffect_11 custom-menu">
-			<li class="agile_active"><a href="index.html" class="scroll"><span>home</span></a></li>
+			<li class="agile_active"><a href="howcilly.github.io/" class="scroll"><span>home</span></a></li>
 			<li><a href="#about" class="scroll"><span>about us</span></a></li>
 			<li><a href="#gallery" class="scroll"><span>gallery </span></a></li>
 			<li><a href="#team" class="scroll"><span>team</span></a></li>
